@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\ref\Players.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\bin\Debug\net5.0\Players.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\ref\Players.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Players\Players\obj\Debug\net5.0\Players.genruntimeconfig.cache
